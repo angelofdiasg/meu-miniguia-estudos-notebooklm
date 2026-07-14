@@ -156,3 +156,23 @@ Os principais pilares são:
 # Conclusão
 
 O NotebookLM mostrou-se eficiente para consolidar informações provenientes de múltiplas fontes, permitindo criar resumos estruturados, identificar conceitos relevantes e organizar revisões futuras de forma prática.
+
+---
+
+## 📸 Evidências
+
+### Fontes carregadas no NotebookLM
+
+![Fontes](imagens/01-fontes.png)
+
+---
+
+### Teste de Prompt
+
+![Prompt](imagens/02-prompts.png)
+
+---
+
+### Resumo Gerado
+
+![Resumo](imagens/03-resumo.png)
